@@ -1,2 +1,3 @@
 # go-downloader
-downloads against afero.Fs
+
+go-downloader downloads files against afero.Fs
